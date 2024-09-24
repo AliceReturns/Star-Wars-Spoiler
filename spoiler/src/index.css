@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  align-items: center;
+  text-align: center;
+}
+
+body {
+  background-color: #000;
+  color: #fff;
+}
+
+h1 {
+  margin-top: 3em;
+}
+
+.Star-Wars-Text {
+  margin: 2em 25em;
+}
+
+.Tape {
+  cursor: pointer;
+  display: inline-block;
+}
