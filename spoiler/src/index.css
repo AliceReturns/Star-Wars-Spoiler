@@ -27,3 +27,9 @@ h1 {
   cursor: pointer;
   display: inline-block;
 }
+
+.Info {
+  color: blue;
+  margin-top: 5em;
+  font-size: x-small;
+}

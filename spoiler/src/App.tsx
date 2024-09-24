@@ -16,6 +16,7 @@ function App() {
             <Spoiler>Lucasfilm</Spoiler>, mitsamt den Rechten an Star Wars, an
             die Walt Disney Company.{" "}
           </p>
+          <p className="Info">Please click on blue Textarea to reveal.</p>
         </div>
       </div>
     </>
